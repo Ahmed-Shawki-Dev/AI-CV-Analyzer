@@ -1,7 +1,7 @@
 # 📄 AI CV Analyzer  
 
 Web app that analyzes CVs using **Google Gemini AI**.  
-Built with **Vite + React + Chakra UI** (frontend) and **Strapi** (backend).  
+Built with "Vite", "Typescript" 
 
 ---
 
